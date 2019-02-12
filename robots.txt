@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xohraxen.reasm.org/sitemap.xml
